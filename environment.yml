@@ -7,6 +7,14 @@
 #    conda env export --name tracking-barbell-exercises > environment.yml
 #    conda env remove --name tracking-barbell-exercises
 #    conda env list
+#
+# name: Specifies the name of your environment (e.g., myenv).
+# channels: Defines the channels where conda should look for packages (e.g., defaults).
+# dependencies: Lists the packages you want to install.
+# You can specify package versions (e.g., python=3.9).
+# You can include pip dependencies by adding a pip: section. 
+
+
 
 name: AI_fitness_tracker
 channels:
