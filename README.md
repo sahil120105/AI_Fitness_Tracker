@@ -64,6 +64,3 @@ The **AI Fitness Tracker** is designed to accurately predict the type of exercis
 ## 📌 Conclusion
 This project demonstrates the **power of AI in fitness tracking**, providing insights into strength training performance. With further improvements, it can serve as an **intelligent fitness assistant** for gym-goers and athletes.
 
----
-### 📜 Author
-Developed by **[Your Name]** | AI & ML Enthusiast 🚀
